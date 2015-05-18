@@ -1,0 +1,265 @@
+cheatsheet do
+  title 'Ulysses'
+  docset_file_name 'Ulysses_Shortcuts'
+  keyword 'Ulysses'
+
+  category do
+    id 'View'
+    
+    entry do
+      command '⌘+ SHIFT +O'
+      name 'Open quickly'
+    end
+    
+    entry do
+    	command '⌥ + ⌘ + T'
+    	name 'Enable Typewriter Scolling'
+    
+    entry do
+    	command '⌘ + 1'
+    	name 'Three Pane View'
+    end
+    
+    entry do
+    	commad '⌘ + 2'
+    	name 'Two Pane View'
+    end
+    
+    entry do
+    	commad '⌘ + 3'
+    	name 'Editor Only View'
+    end
+
+    entry do
+    	commad '⌘ + 4'
+    	name 'Show Attachment Bar'
+    end
+
+    entry do
+    	commad '⌘ + 6'
+    	name 'Show Quick Export'
+    end
+
+    entry do
+    	commad '⌘ + 6 or ESC'
+    	name 'Close Quik Export'
+    end	
+
+    entry do
+    	commad '⌥ + ⌘ + L'
+    	name 'Light/Dark Mode'
+    end	
+  
+  end
+
+
+  category do
+    id 'Sheet Handling'
+    
+    entry do
+      command '⌘ + N'
+      name 'New Sheet'
+    end
+
+    entry do
+      command '⌥ + ⌘ + ↑'
+      name 'Select Previous Sheet'
+    end
+
+    entry do
+      command '⌥ + ⌘ + ↓'
+      name 'Select Next Sheet'
+    end
+
+    entry do
+      command '⌘ + Return'
+      name 'Beginn/End Editing'
+    end
+    
+  end
+  
+  category do
+    id 'Editor'
+
+    entry do
+      command '⌘ + ←'
+      name 'Start of Line'
+    end
+
+    entry do
+      command '⌘ + →'
+      name 'End of Line'
+    end
+
+    entry do
+      command '⌘ + ↑'
+      name 'Start of Sheet'
+    end
+
+    entry do
+      command '⌘ + ↓'
+      name 'End of Sheet'
+    end
+
+    entry do
+      command '⌥ + ↑'
+      name 'Start of Paragraph'
+    end
+
+    entry do
+      command '⌥ + ↓'
+      name 'End of Paragraph'
+    end
+
+    entry do
+      command '⌥ + ←'
+      name 'Previous Word'
+    end
+
+    entry do
+      command '⌥ + →'
+      name 'Next Word'
+    end
+
+    entry do
+      command 'Shift + → or Shift + ← or Shift and any of aboved-named editor Shortcuts'
+      name 'Select Text'
+    end
+
+    entry do
+      command 'Shift Enter'
+      name 'Insert Line Break'
+    end
+
+    entry do
+      command '⌘ + Z'
+      name 'Undo'
+    end
+
+    entry do
+      command 'Shift + ⌘ + Z'
+      name 'Redo'
+    end
+
+    entry do
+      command 'Tab'
+      name 'Indent'
+    end
+
+    entry do
+      command 'Shift + Tab'
+      name 'Outdent'
+    end
+    
+    entry do
+    	command 'Shift + ⌘ + V'
+    	name 'Smart Paste'
+    end
+    
+    entry do
+    	command '⌥ + ⌘ + C'
+    	name 'Copy as (from last selected)'
+    end
+    
+    entry do
+    	command 'Shift + ⌥ + ⌘ + V'
+    	name 'Paste as (from last selected)'
+    end
+    
+    entry do
+    	command '⌥ + ⌘ + V'
+    	name 'Paste from (last selected)'
+    end
+    
+    entry do
+    	command 'Shift + ⌘ + P'
+    	name 'Export Preview'
+    end
+    
+    entry do
+    	command '⌘ + R'
+    	name 'Refresh Export Preview'
+    end
+    
+    entry do
+    	command '⌘ + P'
+    	name 'Print Editor'
+    end
+    
+    entry do
+    	command '⌘ + :'
+    	name 'Show Spelling and Grammar'
+    end
+    
+    entry do
+    	command '⌘ + ←, ⌘ + ←'
+    	name 'Move Focus to Sheet List'
+    end
+
+	end
+
+
+  category do
+    id 'Markup'
+ 
+    entry do
+      command '⌘ + #'
+      name 'Increase Headling Level'
+    end
+
+    entry do
+      command 'Shift + ⌘ + #'
+      name 'Decrease Headling Level'
+    end
+
+    entry do
+      command '⌘ + B'
+      name 'Mark as Strong'
+    end
+
+    entry do
+      command '⌘ + I'
+      name 'Mark as Emphasis'
+    end
+
+    entry do
+      command '⌘ + K'
+      name 'Mark as Link'
+    end
+
+    entry do
+      command '⌘ + L'
+      name 'Clear Markup in Section'
+    end
+ 
+  end
+
+	category do
+		id 'Button Row'
+		
+    entry do
+      command '⌘ + 7'
+      name 'Show Statistics'
+    end
+
+    entry do
+      command '⌘ + F'
+      name 'Show Search'
+    end
+
+    entry do
+      command '⌘ F or ESC'
+      name 'Hide Search'
+    end
+
+    entry do
+      command '⌘ + G'
+      name 'Next Match'
+    end
+
+    entry do
+      command 'Shift + ⌘ + G'
+      name 'Previous Match'
+    end
+
+end
